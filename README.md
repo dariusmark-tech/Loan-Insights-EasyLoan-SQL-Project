@@ -1,4 +1,4 @@
-# 📊 Practical Exam: Loan Insights — EasyLoan SQL Project
+# Practical Exam: Loan Insights — EasyLoan SQL Project
 
 ## Overview
 
