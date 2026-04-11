@@ -98,7 +98,7 @@ FROM repayment;
 | Missing + amount < $1,000 | `mail` |
 | All other rows | Keep existing value |
 
-> ⚠️ "Missing" values include: `NULL`, empty string `''`, dash `'-'`, and the word `'missing'`
+> "Missing" values include: `NULL`, empty string `''`, dash `'-'`, and the word `'missing'`
 
 ---
 
