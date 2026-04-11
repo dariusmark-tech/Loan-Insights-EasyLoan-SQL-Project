@@ -102,7 +102,7 @@ FROM repayment;
 
 ---
 
-### ✅ Task 3 — US Clients on the New Online System
+### Task 3 — US Clients on the New Online System
 **DataFrame name:** `us_loans`
 
 Return loans for US clients who signed contracts on or after January 1st, 2022.
