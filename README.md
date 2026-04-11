@@ -23,7 +23,7 @@ repayment      → repayment_id (PK), loan_id (FK), repayment_date, repayment_am
 
 ## Tasks & Solutions
 
-### ✅ Task 1 — Clean the `client` Table
+### Task 1 — Clean the `client` Table
 **DataFrame name:** `client`
 
 Clean invalid data types and string values from the `client` table without modifying the original.
