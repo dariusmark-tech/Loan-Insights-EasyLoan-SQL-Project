@@ -62,7 +62,7 @@ FROM client;
 
 ---
 
-### ✅ Task 2 — Fill Missing `repayment_channel` Values
+### Task 2 — Fill Missing `repayment_channel` Values
 **DataFrame name:** `repayment`
 
 Fill missing repayment channel values based on repayment amount rules.
