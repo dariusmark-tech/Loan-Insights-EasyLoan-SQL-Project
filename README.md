@@ -122,7 +122,7 @@ WHERE c.country = 'USA'
 
 ---
 
-### ✅ Task 4 — Average Interest Rate by Loan Type & Country
+### Task 4 — Average Interest Rate by Loan Type & Country
 **DataFrame name:** `average_data`
 
 Compare average interest rates for each loan type across countries.
